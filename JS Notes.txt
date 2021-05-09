@@ -1,0 +1,17 @@
+The HTML Keyboard Input element ( <kbd> ) represents a span of inline text
+denoting textual user input from a keyboard, voice input, or any other
+text entry device.
+
+addEventListner: takes action when an event is triggered
+
+window.addEventListner(event1, action1(){
+When event1 happens, action1 function is executed.
+});
+
+
+document.querySelector('element')
+
+Calls the element on the html page, in this case is the audio
+
+
+rem: font size of root element
